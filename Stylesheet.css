@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/*---------------Heading-----------------------*/
+h1
+{
+    text-transform: uppercase;
+    font-family: 'bebas Neue';
+    font-size: 68px;
+    margin: 15px;
+    margin-top: 25px;
+    font-weight: 300;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+
+/*--------------Content Cards-------------------*/
+.content-card
+{
+    width: 100%;
+ 
+    display: inline-block;
+}
+h2
+{
+    text-transform: uppercase;
+    font-family: 'bebas Neue';
+}
+.cards
+{
+    padding: 10px;
+    max-width: 360px;
+    width: 320px;
+    height: 390px;
+    border: 2px solid #ececec;
+    border-top: 4px solid #FCC200;
+    display: inline-block;
+    padding: 20px;
+    margin: 15px;
+}
+.EQ
+{
+    font-family: 'bebas Neue';
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-underline-position: under;
+    text-decoration-color: #FCC200;
+    
+}
+
+.lines
+{
+    border-bottom:2px solid #ececec;
+    padding-bottom: 15px;
+}
+
+/*---------------Buttons---------------------*/
+.view
+{
+    
+    font-family: 'bebas Neue';
+    border: none;
+    background-color: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 698px;
+    display: inline-block;
+
+    
+}
+.funds
+{
+    font-family: 'bebas Neue';
+    border: none;
+    background-color: #FCC200;
+    padding: 8px 20px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 48px;
+    margin-bottom: 38px;
+  
+    
+}
+/*----------Font Awesome Icons-------------*/
+.fa-solid
+{
+    margin-left: 15px;
+}
+#top-arrow
+{
+    color: #FCC200;
+    margin-left: 10px;
+}
